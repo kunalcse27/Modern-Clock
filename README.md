@@ -1,12 +1,12 @@
 Project Name: Modern Clock -----Mini Project
 ----------------------------------------------------------
 Developer: Kunal Kumar
+-----------------------------------------------------------
 Email: [kunal.cse27@gmail.com]
 Technologies Used:
 HTML5
 CSS3
 JavaScript
------------------------------------------------------------
 This is a simple modern clock made with HTML, CSS, and JavaScript.
 -----------------------------------------------------------
 Features
