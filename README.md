@@ -2,11 +2,6 @@ Project Name: Modern Clock -----Mini Project
 ----------------------------------------------------------
 Developer: Kunal Kumar
 -----------------------------------------------------------
-Email: [kunal.cse27@gmail.com]
-Technologies Used:
-HTML5
-CSS3
-JavaScript
 This is a simple modern clock made with HTML, CSS, and JavaScript.
 -----------------------------------------------------------
 Features
@@ -35,3 +30,12 @@ HTML: Contains the clock elements and a text description.
 CSS: Styles the clock, including colors, shadows, blur effects, and layout.
 
 JavaScript: Updates the rotation of the clock hands every second based on the current time.
+
+-------------------------------------------------------------
+Contact Me
+Email: [kunal.cse27@gmail.com]
+
+LinkedIn: [https://www.linkedin.com/in/kunal-kumar-269835378/]
+
+Codolio: [https://codolio.com/profile/kunal.cse27]
+
