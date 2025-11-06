@@ -37,5 +37,4 @@ Email: [kunal.cse27@gmail.com]
 
 LinkedIn: [https://www.linkedin.com/in/kunal-kumar-269835378/]
 
-Codolio: [https://codolio.com/profile/kunal.cse27]
 
